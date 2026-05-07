@@ -1,9 +1,7 @@
 [
     {"name":"amol","city":"budaun"},
     {"name":"Aman","city":"delhi"},
-    {"name":"rajeev","city":"bangalore"},
     {"name":"shyam","city":"Gurgaon"},
-    {"name":"ravi","city":"noida"},
-    {"name":"kumar","city":"hyderabad"}
+    {"name":"kaveer","city":"hyderabad"}
 
 ]
