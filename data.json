@@ -1,8 +1,7 @@
 [
     {"name":"amol","city":"budaun"},
-    {"name":"Aman","city":"bangalore"},
-    {"name":"ram","city":"bareilly"},
-    {"name":"kaveer","city":"kanpur"},
-    {"name":"ravi","city":"kolkata"}
+    {"name":"Aman","city":"delhi"},
+    {"name":"atul","city":"kanpur"},
+    {"name":"virat","city":"bangalore"}
 
 ]
